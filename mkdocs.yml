@@ -1,0 +1,55 @@
+site_name: 资源共享平台搭建宝典
+theme: 
+  name: material
+  features:
+  - navigation.instant
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.tracking
+  - navigation.path
+  - toc.integrate
+  - toc.follow
+  - navigation.top
+  - navigation.footer
+  - search.highlight
+  - search.share
+  - search.suggest
+nav:
+  - 首页: index.md
+  - 技术选型:
+    - 首页: techRoute/techRouteIndex.md
+  - 技术工具:
+    - 首页: techs/techsIndex.md
+    - VSCode: techs/vscode.md
+    - 包管理器 (pip/npm): techs/packageManage.md
+    - 前端技术: techs/webFront.md
+    - LaTeX: techs/latex.md
+    - Git: techs/git.md
+    - Git托管平台: techs/gitHosts.md
+    - Markdown: techs/markdown.md
+    - 小程序开发: techs/miniProgram.md
+    - MkDocs with Material: techs/mkdocsWithMaterial.md
+    - CC98技巧: techs/CC98.md
+  - 运营Q&A:
+    - 首页: topics/topicsIndex.md
+    - 我们要选择校内网还是校外网？: topics/q1.md
+    - 我们是否要依靠一定的学生组织？: topics/q2.md
+  
+markdown_extensions: # Markdown扩展
+  - admonition # 警告
+  - pymdownx.details # 详细
+  - pymdownx.superfences # 代码块
+  - attr_list # 可切换的列表
+  - pymdownx.tabbed: # 启用选项卡
+      alternate_style: true
+  - pymdownx.arithmatex: #python 公式
+      generic: true
+plugins: # tag插件
+  - tags
+plugins: 
+  - search: # 搜索插件
+      lang:
+        - zh
+        - en
+        - ja
+      separator: '[\s\u200b\-]'
