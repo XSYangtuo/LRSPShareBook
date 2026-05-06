@@ -1,5 +1,7 @@
 # LaTeX
 
+*目前内容由ai生成*
+
 ## 是什么？
 LaTeX是一种基于TeX的排版系统，专门用于制作高质量的科学和数学文档。它采用"所见即所想"（WYSIWYM）的方式，用户通过编写标记代码来定义文档结构和格式，系统自动处理排版细节。
 
@@ -70,5 +72,3 @@ LaTeX是一种基于TeX的排版系统，专门用于制作高质量的科学和
 - LaTeX中文教程：[https://www.latexstudio.net/](https://www.latexstudio.net/)
 - CTAN（LaTeX包仓库）：[https://www.ctan.org/](https://www.ctan.org/)
 - LaTeX Wikibook：[https://en.wikibooks.org/wiki/LaTeX](https://en.wikibooks.org/wiki/LaTeX)
-
-*目前内容由ai生成*

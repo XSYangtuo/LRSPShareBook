@@ -1,5 +1,7 @@
 # 包管理器（pip/npm）
 
+*目前内容由ai生成*
+
 ## 是什么？
 包管理器是用于管理软件包（库、框架、工具等）的工具，可以自动处理依赖关系、版本控制和安装过程。常见的包管理器包括Python的pip和JavaScript的npm。
 
@@ -82,5 +84,3 @@
 - npm官方文档：[https://docs.npmjs.com/](https://docs.npmjs.com/)
 - PyPI：[https://pypi.org/](https://pypi.org/)
 - npm注册表：[https://www.npmjs.com/](https://www.npmjs.com/)
-
-*目前内容由ai生成*

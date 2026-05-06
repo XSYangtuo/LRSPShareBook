@@ -43,7 +43,8 @@ CC98是浙江大学**内网访问**的论坛，发布收集资源有着天然的
 #### 优秀案例
 - 目前最成功的静态站平台：[数学之韵](https://zju_math.pages.zjusct.io/mathweb/){target=_blank}、[图灵班学习指南](https://zju-turing.github.io/TuringCourses/){target=_blank}
 - 本平台（希望未来会是）
-#### 教程
-...
-https://www.pages.zjusct.io/posts/git-pages-builder
+#### 教程（Mkdocs）
+- 你需要根据[Mkdocs for material](../techs/mkdocsWithMaterial.md)的教程完成mkdocs环境的配置，并了解基本操作
+- 如果你要把制作好的mkdocs网站部署成线上的网页，你可以查看[Github/类Github平台](../techs/gitHosts.md)的相关知识。
+
 (待续...)

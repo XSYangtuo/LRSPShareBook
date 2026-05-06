@@ -1,5 +1,7 @@
 # 前端技术概论
 
+*目前内容由ai生成*
+
 ## 是什么？
 前端技术是指用于构建网站和Web应用程序用户界面的技术集合。它涵盖了用户在浏览器中看到和交互的所有内容，包括布局、样式、交互逻辑等。
 
@@ -66,5 +68,3 @@
 - W3Schools：[https://www.w3schools.com/](https://www.w3schools.com/)
 - React官方文档：[https://react.dev/](https://react.dev/)
 - Vue.js官方文档：[https://vuejs.org/](https://vuejs.org/)
-
-*目前内容由ai生成*
