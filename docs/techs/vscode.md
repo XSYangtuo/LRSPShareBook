@@ -1,9 +1,11 @@
 # Visual Studio Code（VSCode）
 
-*目前内容由ai生成*
-
-## 是什么？
-Visual Studio Code（简称VSCode）是微软开发的一款免费、开源的现代化代码编辑器。它支持Windows、macOS和Linux系统，提供了丰富的功能和扩展生态系统，适用于多种编程语言和开发场景。
+vscode是一款轻量级但功能强大的**编辑器**。简单来说，它就是一款“瑞士军刀”，一个高级的文本编辑器。
+#### Getting Started
+- 可以从官网下载安装：[https://code.visualstudio.com/](https://code.visualstudio.com/){:target="_blank"}
+- 如果你需要
+!!! warning
+    vscode和vs不是同一个东西！不要把vscode简称为vs！
 
 ## 有什么特点？
 1. **轻量快速**：相比完整的IDE，VSCode启动迅速，占用资源少

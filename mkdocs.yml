@@ -34,6 +34,10 @@ nav:
     - 首页: topics/topicsIndex.md
     - 我们要选择校内网还是校外网？: topics/q1.md
     - 我们是否要依靠一定的学生组织？: topics/q2.md
+  - 调研结果: 
+    - 首页: reports/reportsIndex.md
+    - 省流版: reports/savingTimeAI.md
+    - 调研报告: reports/full.md
   
 markdown_extensions: # Markdown扩展
   - admonition # 警告
